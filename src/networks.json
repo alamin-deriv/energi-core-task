@@ -1,0 +1,52 @@
+{
+  "1": {
+    "name": "Ethereum Mainnet",
+    "symbol": "ETH",
+    "explorer_url": "https://etherscan.io/"
+  },
+  "3": {
+    "name": "Ropsten Testnet",
+    "symbol": "ETH",
+    "explorer_url": "https://ropsten.etherscan.io/"
+  },
+  "4": {
+    "name": "Rinkeby Testnet",
+    "symbol": "ETH",
+    "explorer_url": "https://rinkeby.etherscan.io/"
+  },
+  "5": {
+    "name": "Goerli Testnet",
+    "symbol": "ETH",
+    "explorer_url": "https://goerli.etherscan.io/"
+  },
+  "42": {
+    "name": "Kovan Testnet",
+    "symbol": "ETH",
+    "explorer_url": "https://kovan.etherscan.io/"
+  },
+  "80001": {
+    "name": "Polygon Mumbai",
+    "symbol": "MATIC",
+    "explorer_url": "https://mumbai.polygonscan.com/"
+  },
+  "137": {
+    "name": "Polygon Main Network",
+    "symbol": "MATIC",
+    "explorer_url": "https://polygonscan.com/"
+  },
+  "56": {
+    "name": "BNB Smart Chain",
+    "symbol": "BNB",
+    "explorer_url": "https://bscscan.com"
+  },
+  "39797": {
+    "name": "Energi Mainnet",
+    "symbol": "WNRG",
+    "explorer_url": "https://explorer.energi.network/"
+  },
+  "97": {
+    "name": "Binance Smart Chain Testnet",
+    "symbol": "BNB",
+    "explorer_url": "https://testnet.bscscan.com/"
+  }
+}
